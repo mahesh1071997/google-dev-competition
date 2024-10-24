@@ -22,7 +22,7 @@ Here are some screenshots from the clone project:
 
 Watch the full demo of this project on YouTube to see it in action:
 
-[![Watch the video(screenshot/google dev.PNG)](https://youtu.be/y1cAeb2ofZw)
+[Watch the video](https://youtu.be/y1cAeb2ofZw)
 
 Click the image above or use [this link](https://youtu.be/y1cAeb2ofZw) to watch the demo video.
 
