@@ -22,9 +22,9 @@ Here are some screenshots from the clone project:
 
 Watch the full demo of this project on YouTube to see it in action:
 
-[![Watch the video][(screenshot/Screenshot_20241019_164700.png)](https://youtu.be/y1cAeb2ofZw)
+[![Watch the video](screenshot/Screenshot_20241019_164700.png)](https://youtu.be/y1cAeb2ofZw)
 
-Click the image above or use [this link](https://youtu.be/your-video-link) to watch the demo video.
+Click the image above or use [this link](https://youtu.be/y1cAeb2ofZw) to watch the demo video.
 
 ## Getting Started
 
